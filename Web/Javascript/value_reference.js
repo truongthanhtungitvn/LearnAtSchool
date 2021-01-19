@@ -12,11 +12,7 @@ let b1;
 
 b1 = a1;
 a1.name = "Thanh Tung Updated";
-
 console.log(a1, b1);
-
-
-
 
 
 
